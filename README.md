@@ -1,4 +1,5 @@
 # Discover Meteor Static
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DiscoverMeteor/DiscoverMeteorStatic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a [Middleman](http://middlemanapp.com) static site generator wrapper for the [Discover Meteor](https://www.discovermeteor.com) book's Markdown sources. 
 
